@@ -4,7 +4,8 @@
 
 
 - 🌱 No momento estou aprendendo Cypress como automação de testes E2E 
--
+
 - ⚡ Tenho conhecimento em Selenium, Postman, JMeter mais a melhor ferramenta é o cérebro (Pois tecnologia se aprende) 
+
 - 📫 Como me encontrar, pode entrar em contato pelo meu email particular: pauloteodoro696@gmail.com
 
